@@ -23,9 +23,6 @@ module.exports = {
       'typo-m': '24px',
       'typo': '18px'
     },
-    spacing: {
-      
-    }
   }
   // ...
 }
